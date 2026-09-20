@@ -3,8 +3,8 @@
     "id": "react",
     "name": "React",
     "category": "Frontend",
-    "description": "A declarative, component-based library for building user interfaces.",
-    "icon": "https://techicons.dev/icons/react.svg",
+    "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+    "icon": "https://icon.icepanel.io/Technology/svg/React.svg",
     "rating": 4.9,
     "difficulty": "Beginner-Friendly",
     "badge": "Popular"
@@ -13,8 +13,8 @@
     "id": "vue",
     "name": "Vue.js",
     "category": "Frontend",
-    "description": "Progressive JavaScript framework for building modern web frontends.",
-    "icon": "https://techicons.dev/icons/vue.svg",
+    "description": "An approachable, performant, and versatile framework for building user interfaces.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Vue.js.svg",
     "rating": 4.8,
     "difficulty": "Beginner-Friendly",
     "badge": "Versatile"
@@ -23,8 +23,8 @@
     "id": "svelte",
     "name": "Svelte",
     "category": "Frontend",
-    "description": "Cybernetically enhanced web apps with compile-time reactivity.",
-    "icon": "https://techicons.dev/icons/svelte.svg",
+    "description": "A compiler-based approach to building fast and reactive web applications.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Svelte.svg",
     "rating": 4.8,
     "difficulty": "Intermediate",
     "badge": "Fast"
@@ -33,38 +33,28 @@
     "id": "nextjs",
     "name": "Next.js",
     "category": "Frontend",
-    "description": "The React framework for hybrid server and client-rendered apps.",
-    "icon": "https://techicons.dev/icons/nextjs.svg",
+    "description": "The React framework for building modern full-stack web applications.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Next.js.svg",
     "rating": 4.9,
     "difficulty": "Intermediate",
-    "badge": "Essential"
+    "badge": "Robust"
   },
   {
     "id": "nodejs",
     "name": "Node.js",
     "category": "Backend",
-    "description": "Event-driven asynchronous JavaScript runtime built on Chrome V8.",
-    "icon": "https://techicons.dev/icons/nodejs.svg",
+    "description": "An asynchronous event-driven JavaScript runtime built on Chrome's V8 engine.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Node.js.svg",
     "rating": 4.8,
     "difficulty": "Intermediate",
     "badge": "Standard"
   },
   {
-    "id": "express",
-    "name": "Express",
-    "category": "Backend",
-    "description": "Minimalist web framework for Node.js APIs and routing.",
-    "icon": "https://techicons.dev/icons/express.svg",
-    "rating": 4.7,
-    "difficulty": "Beginner-Friendly",
-    "badge": "Lightweight"
-  },
-  {
     "id": "postgresql",
     "name": "PostgreSQL",
     "category": "Database",
-    "description": "A powerful, open-source object-relational database system.",
-    "icon": "https://techicons.dev/icons/postgresql.svg",
+    "description": "A powerful, open-source object-relational database system with proven reliability.",
+    "icon": "https://icon.icepanel.io/Technology/svg/PostgresSQL.svg",
     "rating": 4.9,
     "difficulty": "Intermediate",
     "badge": "Top SQL"
@@ -73,28 +63,48 @@
     "id": "redis",
     "name": "Redis",
     "category": "Database",
-    "description": "In-memory data structure store used as database, cache, and broker.",
-    "icon": "https://techicons.dev/icons/redis.svg",
+    "description": "An in-memory data structure store used as a database, cache, and message broker.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Redis.svg",
     "rating": 4.8,
     "difficulty": "Intermediate",
     "badge": "Cache"
   },
   {
+    "id": "javascript",
+    "name": "JavaScript",
+    "category": "Language",
+    "description": "A versatile programming language widely used to build interactive web applications.",
+    "icon": "https://icon.icepanel.io/Technology/svg/JavaScript.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Ubiquitous"
+  },
+  {
     "id": "typescript",
     "name": "TypeScript",
     "category": "Language",
-    "description": "Strongly typed programming language building on JavaScript.",
-    "icon": "https://techicons.dev/icons/typescript.svg",
+    "description": "A strongly typed programming language that builds on JavaScript for better tooling.",
+    "icon": "https://icon.icepanel.io/Technology/svg/TypeScript.svg",
     "rating": 4.9,
     "difficulty": "Intermediate",
     "badge": "Essential"
   },
   {
-    "id": "tailwindcss",
+    "id": "java",
+    "name": "Java",
+    "category": "Language",
+    "description": "A secure, object-oriented programming language designed for portability and scale.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Java.svg",
+    "rating": 4.6,
+    "difficulty": "Intermediate",
+    "badge": "Robust"
+  },
+  {
+    "id": "tailwind",
     "name": "Tailwind CSS",
     "category": "Styling",
-    "description": "Utility-first CSS framework for rapid custom UI composition.",
-    "icon": "https://techicons.dev/icons/tailwindcss.svg",
+    "description": "A utility-first CSS framework for building custom and responsive user interfaces.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg",
     "rating": 4.9,
     "difficulty": "Beginner-Friendly",
     "badge": "Modern"
@@ -103,20 +113,10 @@
     "id": "docker",
     "name": "Docker",
     "category": "DevOps",
-    "description": "Platform for building, shipping, and running containerized services.",
-    "icon": "https://techicons.dev/icons/docker.svg",
+    "description": "A platform designed to build, share, and run applications in containers.",
+    "icon": "https://icon.icepanel.io/Technology/svg/Docker.svg",
     "rating": 4.9,
     "difficulty": "Intermediate",
     "badge": "Containers"
-  },
-  {
-    "id": "git",
-    "name": "Git",
-    "category": "Tools",
-    "description": "Distributed version control system for tracking source code changes.",
-    "icon": "https://techicons.dev/icons/git.svg",
-    "rating": 5.0,
-    "difficulty": "Beginner-Friendly",
-    "badge": "Essential"
   }
 ]
