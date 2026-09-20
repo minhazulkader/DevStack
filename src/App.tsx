@@ -1,9 +1,13 @@
 import Header from "./components/header";
+import Hero from "./components/hero";
 
-export default function App() {
-  return (
-    <div className="min-h-screen bg-white">
-      <Header />
-    </div>
-  );
-}
+const App = () => {
+    return (
+        <div>
+            <Header />
+            <Hero />
+        </div>
+    );
+};
+
+export default App;
